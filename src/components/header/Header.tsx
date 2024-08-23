@@ -6,7 +6,6 @@ const Header = () => {
     <HStack
       justifyContent="space-between"
       as="header"
-      border="1px solid red"
       width="full"
       paddingY="4"
       paddingX="8"
